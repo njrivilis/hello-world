@@ -1,12 +1,6 @@
 body { padding: 1rem; }
 
-p {
-  color: green;
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-}
+
 .card {
   background-color: teal;
   color: white;
