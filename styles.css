@@ -78,11 +78,20 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
   }
 }
 
-a:link, a:visited {
+a:link{
   text-decoration: none;
   color: white;
 }
 
-a:hover a:active {
+a:hover {
   text-decoration: underline;
+}
+
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
 }
