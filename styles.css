@@ -39,14 +39,14 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 28px;
 }
 
-.topnav a:hover {
+/* .topnav a:hover {
   background-color: white;
   color: indigo;
 }
@@ -54,7 +54,7 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 .topnav a:visited{
   background-color: indigo;
   color: white;
-}
+}*/
 
 .topnav a.active {
   background-color: white;
