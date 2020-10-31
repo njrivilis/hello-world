@@ -96,7 +96,8 @@ a:hover {
 }
 
 .row{
-  display:grid;
+  display:table;
+  color: pink;
 }
 
 /* Clear floats after the columns 
