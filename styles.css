@@ -94,6 +94,7 @@ a:hover {
   padding: 1rem;
 }
 
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
