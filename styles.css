@@ -92,22 +92,11 @@ a:hover {
   float: left;
   width: 50%;
   padding: 1rem;
-    grid-gap: 1rem;
-
 }
 
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: grid;
+  display: table;
   clear: both;
-  margin: 0 auto;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-
-}
-
-
-.email{ 
-  color: orange;
 }
