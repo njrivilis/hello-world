@@ -1,12 +1,5 @@
 body { padding: 1rem; }
 
-
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
-}
-
 p {
   color: green;
   display: block;
