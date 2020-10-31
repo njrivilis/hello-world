@@ -10,13 +10,16 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 
 
 .card {
-  background-color: teal;
+  background-color: white;
     font-size: 24px;
   font-weight: bold;
 
-  color: white;
+  color: teal;
   padding: 1rem;
   height: 4rem;
+
+outline-color:teal;
+  outline-style: groove;
   
 }
 
@@ -46,10 +49,10 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
   font-size: 24px;
 }
 
-/* .topnav a:hover {
+ .topnav a:hover {
   background-color: white;
   color: indigo;
-}*/
+}
 
 
 .topnav a:visited{
