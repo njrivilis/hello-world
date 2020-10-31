@@ -12,6 +12,7 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 .card {
   background-color: teal;
     font-size: 32px;
+  font-weight: bold;
 
   color: white;
   padding: 1rem;
@@ -88,6 +89,11 @@ a:link{
 
 a:hover {
   text-decoration: underline;
+  color: indigo;
+}
+
+a:visited {
+  color: indigo;
 }
 
 
