@@ -20,7 +20,7 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 
 outline-color:teal;
   outline-style: groove;
-  
+  outline-width: thick;
 }
 
 .cards {
@@ -36,7 +36,7 @@ outline-color:teal;
 
 .topnav {
   overflow: hidden;
-  background-color: indigo;
+  background-color: teal;
 }
 
 .topnav a {
@@ -51,12 +51,12 @@ outline-color:teal;
 
  .topnav a:hover {
   background-color: white;
-  color: indigo;
+  color: teal;
 }
 
 
 .topnav a:visited{
-  background-color: indigo;
+  background-color: teal;
   color: white;
 }
 
