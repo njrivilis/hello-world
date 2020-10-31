@@ -48,8 +48,8 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
-  color: white;
+  background-color: white;
+  color: teal;
 }
 
 .topnav .icon {
@@ -76,4 +76,9 @@ font-family: Arial, Helvetica, sans-serif;
     display: block;
     text-align: left;
   }
+}
+
+
+.logoSmall{
+  height: 1rem;
 }
