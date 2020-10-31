@@ -99,8 +99,12 @@ a:hover {
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: table;
+  display: grid;
   clear: both;
+  margin: 0 auto;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
 }
 
 
