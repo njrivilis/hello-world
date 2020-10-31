@@ -11,7 +11,7 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
 
 .card {
   background-color: teal;
-    font-size: 32px;
+    font-size: 24px;
   font-weight: bold;
 
   color: white;
@@ -43,7 +43,7 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 28px;
+  font-size: 24px;
 }
 
  .topnav a:hover {
@@ -51,11 +51,11 @@ font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif	;
   color: indigo;
 }
 
-/*
+
 .topnav a:visited{
   background-color: indigo;
   color: white;
-}*/
+}
 
 .topnav a.active {
   background-color: white;
@@ -98,7 +98,7 @@ a:hover {
   color: indigo;
 }
 
-a:visited {
+.card a:visited {
   color: indigo;
 }
 
