@@ -105,6 +105,9 @@ a:hover {
   color: indigo;
 }
 
+.pagetext a:visited {
+  color: indigo;
+}
 
 .column {
   float: left;
